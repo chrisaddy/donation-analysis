@@ -1,0 +1,6 @@
+flask
+python-dotenv
+pandas
+numpy
+pymc3
+h5py
